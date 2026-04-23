@@ -12,13 +12,10 @@ Proyek ini dibuat untuk memenuhi tugas Uji Kompetensi Keahlian (UKK) di SMKN 1 L
 * **Laporan PDF:** Generate laporan aktivitas perpustakaan.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa:** PHP (Native/Laravel - sesuaikan dengan versimu)
+* **Bahasa:** PHP (Native)
 * **Database:** MySQL
-* **Frontend:** HTML, CSS, JavaScript (Bootstrap/Tailwind)
-* **Tools:** XAMPP, Visual Studio Code
-
-## 📸 Tampilan Aplikasi
-*(Opsional: Masukkan screenshot aplikasi kamu di sini agar orang langsung tertarik)*
+* **Frontend:** HTML, CSS, Bootstrap
+* **Tools:** Laragon, Visual Studio Code
 
 ## ⚙️ Cara Instalasi
 1. Clone repository ini.
@@ -28,4 +25,4 @@ Proyek ini dibuat untuk memenuhi tugas Uji Kompetensi Keahlian (UKK) di SMKN 1 L
 5. Buka `localhost/nama-folder` di browser.
 
 ---
-**Dibuat oleh:** [Nama Kamu] - Siswa RPL SMKN 1 Lemahsugih
+**Dibuat oleh:** Muti Zahirah - Siswa RPL SMKN 1 Lemahsugih
